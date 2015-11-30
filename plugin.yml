@@ -1,0 +1,7 @@
+main: fr.youscer.funfunfun
+name: funfunfun
+version: 1.0
+author: youscer
+commands:
+  dyfun:
+    description: Crushtl by youscer
